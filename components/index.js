@@ -1,0 +1,1 @@
+// Syntax: export {default as <ComponentName>} from "./"
